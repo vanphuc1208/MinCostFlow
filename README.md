@@ -1,4 +1,4 @@
-# Successive Shortest Path Algorithm- HCMUT Mathematical Assignment
+# Successive Shortest Path Algorithm- HCMUT Mathematical Modeling Assignment
 
 ## Purpose
 - To solve the minimum-cost flow problem which is an optimization and decision problem to find the cheapest possible way of sending a certain amount of flow through a flow network.
